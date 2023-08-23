@@ -1,6 +1,6 @@
 from functions import get_todos, write_todos
 
-print('To-do app' '\n'
+print('To-Do App' '\n'
       'To show To-dos, type "show" \n'
       'To add a To-do, type "add" \n'
       'To edit a To-do, type "edit" \n'
