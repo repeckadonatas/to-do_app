@@ -3,5 +3,3 @@ cook
 buy
 go to the lake
 wake up
-master python
-find work
